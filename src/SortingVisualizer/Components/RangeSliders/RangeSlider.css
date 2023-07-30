@@ -1,0 +1,6 @@
+.slider-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center items horizontally */
+    align-items: center;    
+}

@@ -1,0 +1,8 @@
+.buttons-bar{
+    display: flex;
+    justify-content: center;
+}
+
+.buttons-bar > button {
+    margin: 5px;
+}

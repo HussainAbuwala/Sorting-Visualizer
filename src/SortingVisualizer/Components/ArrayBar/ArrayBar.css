@@ -1,0 +1,11 @@
+.bar-container{
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    margin-top: 50px;
+    
+}
+.array-bar{
+    background-color: #97FEED;
+    margin: 2px;
+    width: 10px;
+}
